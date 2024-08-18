@@ -1,8 +1,12 @@
-**Name: Darshan Bhangale**      
-**Mobile No.: 8421156624**
 
+**Name: Darshan Bhangale**             
+**Company: CODTECH IT SOLUTIONS**       
+**ID: CT08DS6120**       
+**Domain: Machine Learning**       
+**Duration:AUGUST 1st 2024 to SEPTEMBER 1st 2024**    
+**Mentor: MUZAMMIL AHMED**
 
-
+# Overview of Project:
 # BMI Tracker
 
 A simple BMI (Body Mass Index) calculator implemented using Tkinter.
