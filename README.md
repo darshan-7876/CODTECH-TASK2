@@ -32,6 +32,6 @@ This project provides a graphical user interface for calculating BMI. Users can 
 2. Click the "Calculate BMI" button.
 3. The application will display your BMI and corresponding category.
 
-## Contributing
+## Output
+![bmi tracker](https://github.com/user-attachments/assets/e6f9ab47-9860-454f-aefa-537b2c62b0c9)
 
-Pull requests are welcome! If you'd like to contribute to this project, please fork the repository and submit a pull request with your changes.
